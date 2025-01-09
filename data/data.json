@@ -21,14 +21,14 @@
   {
     "venue": "AISTATS",
     "area": "Machine Learning",
-    "abstract_deadline": "10/08/2020 08:00 UTC-7",
-    "deadline": "10/15/2020 08:00 UTC-7",
+    "abstract_deadline": "10/06/2023 08:00 UTC-7",
+    "deadline": "10/15/2023 08:00 UTC-7",
     "conference_dates": {
-      "start": "04/13/2021",
-      "end": "04/15/2021"
+      "start": "05/2/2024",
+      "end": "05/4/2024"
     },
     "link": "http://www.aistats.org",
-    "location": "San Diego, California, USA"
+    "location": "Valencia, Spain"
   },
   {
     "venue": "CIKM",
@@ -77,13 +77,13 @@
     "area": "Artificial Intelligence",
     "link": "http://ecai2020.eu/",
     "location": "Santiago de Compostela, Spain",
-    "abstract_deadline": "11/15/2019 23:59 UTC-12",
-    "deadline": "11/19/2019 23:59 UTC-12",
-    "notification": "01/15/2020",
-    "camera_ready": "02/20/2020",
+    "abstract_deadline": "4/19/2024 23:59 UTC-12",
+    "deadline": "4/25/2024 23:59 UTC-12",
+    "notification": "7/4/2024",
+    "camera_ready": "8/26/2024",
     "conference_dates": {
-      "start": "08/28/2020",
-      "end": "09/2/2020"
+      "start": "10/19/2024",
+      "end": "10/24/2024"
     }
   },
   {
@@ -110,40 +110,54 @@
     "location": "Bruges, Belgium"
   },
   {
+    "venue": "ICANN",
+    "venue_long": "International Conference on Artificial Neural Networks",
+    "area": "Machine Learning and Brain inspierd computing",
+    "deadline": "03/15/2024 23:59 UTC-7",
+    "conference_dates": {
+      "start": "09/17/2024",
+      "end": "09/20/2024"
+    },
+    "notification": "06/10/2024",
+    "camera_ready": "06/30/2024",
+    "link": "https://e-nns.org/",
+    "location": "Lugano-Viganello, Switzerland",
+    "format": "12 pages, Springer-Verlag Lecture Notes in Computer Science (LNCS), inc. references"
+  },
+  {
     "venue": "ICDM",
     "venue_long": "IEEE International Conference on Data Mining",
     "area": "Data Mining",
-    "deadline": "06/05/2019 23:59 UTC-7",
+    "deadline": "06/10/2022 23:59 PDT",
     "conference_dates": {
-      "start": "11/08/2019",
-      "end": "11/11/2018"
+      "start": "11/30/2022",
+      "end": "12/03/2022"
     },
-    "notification": "08/08/2019",
-    "camera_ready": "09/08/2019",
-    "link": "http://icdm2019.bigke.org/",
-    "location": "Beijing, China",
+    "notification": "08/31/2022 23:59 PDT",
+    "camera_ready": "10/01/2022 23:59 PDT",
+    "link": "http://icdm.zhonghuapu.com/",
+    "location": "Orlando, FL, USA",
     "format": "10 pages, IEEE 2-column format, inc. bibliography and appendices"
   },
   {
     "venue": "ICLR",
     "venue_long": "International Conference on Learning Representations",
     "area": "Deep Learning",
-    "abstract_deadline": "09/28/2020 08:00 UTC-7",
-    "deadline": "10/02/2020 08:00 UTC-7",
+    "abstract_deadline": "9/23/2024 08:00 UTC-7",
+    "deadline": "9/28/2024 08:00 UTC-7",
     "link": "http://www.iclr.cc/",
     "location": "Vienna, Austria"
   },
   {
     "venue": "ICML",
     "area": "Machine Learning",
-    "abstract_deadline": "01/28/2021 23:59 UTC-12",
-    "deadline": "2/04/2021 23:59 UTC-12",
+    "deadline": "2/1/2024 23:59 UTC-12",
     "conference_dates": {
-      "start": "07/18/2021",
-      "end": "07/24/2021"
+      "start": "07/21/2024",
+      "end": "07/27/2024"
     },
     "link": "http://icml.cc",
-    "location": "Virtual Only"
+    "location": "Vienna, Austria"
   },
   {
     "venue": "IDA",
@@ -162,14 +176,14 @@
   {
     "venue": "IJCAI",
     "area": "AI",
-    "abstract_deadline": "01/13/2021 23:59 UTC-12",
-    "deadline": "01/20/2021 23:59 UTC-12",
+    "abstract_deadline": "01/10/2024 23:59 UTC-12",
+    "deadline": "01/17/2024 23:59 UTC-12",
     "conference_dates": {
-      "start": "08/21/2021",
-      "end": "08/26/2021"
+      "start": "08/3/2024",
+      "end": "08/9/2024"
     },
     "link": "https://www.ijcai.org/",
-    "location": "Montreal, Canada"
+    "location": "Jeju, South Korea"
   },
   {
     "venue": "KDD",
@@ -189,35 +203,35 @@
     "venue_long": "Machine Learning for Healthcare",
     "link": "https://www.mlforhc.org/",
     "location": "Virtual and Hybrid",
-    "deadline": "3/19/2021 17:00 EDT",
+    "deadline": "4/9/2024 17:00 EDT",
     "conference_dates": {
-      "start": "08/06/2021",
-      "end": "08/7/2021"
+      "start": "08/16/2024",
+      "end": "08/17/2024"
     }
   },
   {
     "venue": "MLSP",
-    "venue_long": "Machine Learning for Signal Processing",
-    "deadline": "6/5/2019 23:59:59 UTC",
+    "venue_long": "International Workshop on Machine Learning for Signal Processing",
+    "deadline": "04/30/2024 23:59:59 PST",
     "conference_dates": {
-      "start": "10/13/2019",
-      "end": "10/16/2019"
+      "start": "09/22/2024",
+      "end": "09/25/2024"
     },
-    "link": "https://www.ieeemlsp.cc/",
-    "location": "Aalborg, Denmark"
+    "link": "https://2024.ieeemlsp.org/",
+    "location": "London, UK"
   },
   {
     "venue": "NeurIPS",
     "area": "Machine Learning",
-    "abstract_deadline": "05/5/2020 13:00 UTC-7",
-    "deadline": "05/12/2020 13:00 UTC-7",
+    "abstract_deadline": "05/15/2024 13:00 PDT",
+    "deadline": "05/22/2024 13:00 PDT",
     "conference_dates": {
-      "start": "12/6/2020",
-      "end": "12/12/2020"
+      "start": "12/9/2024",
+      "end": "12/15/2024"
     },
-    "notification": "09/04/2019",
+    "notification": "09/25/2024",
     "link": "https://nips.cc/",
-    "location": "Vancouver CANADA"
+    "location": "Vancouver, Canada"
   },
   {
     "venue": "SDM",
