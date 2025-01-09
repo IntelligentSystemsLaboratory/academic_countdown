@@ -87,15 +87,16 @@
     }
   },
   {
-    "venue": "ECML-PKDD (journal track)",
+    "venue": "ECML-PKDD (Research Track)",
     "area": "Machine Learning",
     "conference_dates": {
-      "start": "09/13/2021",
-      "end": "09/17/2021"
+      "start": "15/09/2025",
+      "end": "19/09/2025"
     },
-    "deadline": "01/31/2021 23:59 UTC+1",
+    "abstract_deadline": "2025/03/07",
+    "deadline": "2025/03/14",
     "link": "http://www.ecmlpkdd.org/",
-    "location": "Bilbao, Basque Country (Spain)"
+    "location": "Porto, Portugal (Spain)"
   },
   {
     "venue": "ESANN",
